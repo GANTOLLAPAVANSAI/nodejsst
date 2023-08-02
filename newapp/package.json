@@ -1,0 +1,19 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "this is a learning project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "learning"
+  ],
+  "author": "pavan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
